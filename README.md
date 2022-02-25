@@ -1,8 +1,8 @@
-- @GorillaBearWolf
-- Sysadmin > SRE/DevOps.
-- Azure and Go.
-- Cloud/infra projects.
-- Discord–Reddit
+- Hi, I’m @GorillaBearWolf
+- Moving from on-prem to the cloud.
+- Always learning - Azure and Go atm.
+- Always open to collaborate.
+- Send me a message on Discord or Reddit.
 
 <!---
 GorillaBearWolf/GorillaBearWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
