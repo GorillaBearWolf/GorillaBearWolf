@@ -1,8 +1,8 @@
 - @GorillaBearWolf
 - On-prem > cloud
-- Azure and Go
-- Infra and cloud projects
-- Discord and Reddit
+- Azure and PowerShell
+- Infra + security
+- Discord or Reddit
 
 <!---
 GorillaBearWolf/GorillaBearWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
