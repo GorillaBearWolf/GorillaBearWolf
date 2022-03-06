@@ -1,7 +1,7 @@
 - ME::@GorillaBearWolf
-- FOCUS::On-prem>>>cloud
+- LIKES::infra.secure
+- FOCUS::on-prem>>>cloud
 - LEARN::Azure+PowerShell
-- COLLAB::infra.security
 - CONTACT::Discord,Reddit
 
 <!---
