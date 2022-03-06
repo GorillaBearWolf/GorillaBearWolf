@@ -1,8 +1,8 @@
-- ME::@GorillaBearWolf
-- LIKES::infra.secure
-- FOCUS::on-prem>>>cloud
-- LEARN::Azure+PowerShell
-- CONTACT::Discord,Reddit
+- ME:@GorillaBearWolf
+- LIKES:infra.secure
+- FOCUS:on-prem>>>cloud
+- LEARN:Azure+PowerShell
+- CONTACT:Discord,Reddit
 
 <!---
 GorillaBearWolf/GorillaBearWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
